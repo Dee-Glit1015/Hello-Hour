@@ -1,6 +1,9 @@
 # Hello-Golden
 Sample Repositori
 
+<<<<conflict
+contoh conflict yang terjadi pada file
+
 ##Sumber Informasi
 [Github guides] (https://guide.github.com/)
 [Gitlab training] (https://about.gitlab.com/training/)
